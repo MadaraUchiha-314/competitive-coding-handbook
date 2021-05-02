@@ -30,3 +30,7 @@ A list of useful resources for competitive coding
             1. https://codeforces.com/blog/entry/66040
             2. https://www.topcoder.com/community/competitive-programming/tutorials/algorithm-games
             3. http://www.numericana.com/answer/games.htm
+    4. Heavy Light Decomposition
+	1. https://codeforces.com/blog/entry/12239
+	2. https://blog.anudeep2011.com/heavy-light-decomposition/
+	3. https://discuss.codechef.com/t/tutorial-heavy-light-decomposition/69423/17
